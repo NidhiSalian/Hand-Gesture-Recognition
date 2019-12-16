@@ -1,4 +1,4 @@
-# Helpful Information
+# Tips
 
 Here's a few tips and links I found helpful while working on this project. I created this document while I was working on my poject so I could record all the external resources I was accessing and the problems I faced. Hopefully, this could help anyone facing similar issues while trying to replicate this project.
 
