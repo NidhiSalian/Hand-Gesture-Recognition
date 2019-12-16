@@ -16,7 +16,7 @@ Package dependencies are listed program-wise below.
 
 ## Usage
 
-1.   _hand_to_mouse.py_
+1. _hand_to_mouse.py_
 
    Control your cursor with your hands! This program uses haar cascades trained for fist/palm detection from a video feed(in this case, my webcam), and maps it to the mouse controller (move/click respectively).
 
