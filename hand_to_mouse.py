@@ -18,8 +18,8 @@ cap = cv2.VideoCapture(0)
 SHOW_FEED = True
 
 # Pre-trained haar cascades
-palm_detector =cv2.CascadeClassifier("C:\\Users\\Nidhi\\handtomouse\\palm_haar_cascade.xml")
-fist_detector =cv2.CascadeClassifier("C:\\Users\\Nidhi\\handtomouse\\fist_haar_cascade.xml")
+palm_detector =cv2.CascadeClassifier("palm_haar_cascade.xml")
+fist_detector =cv2.CascadeClassifier("fist_haar_cascade.xml")
 
 feed_resolution = (480, 480)
 screen_resolution = pyautogui.size()
