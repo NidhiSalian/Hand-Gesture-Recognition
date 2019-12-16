@@ -15,7 +15,7 @@ I'd recommend using a virtual environment to prevent conflicting package depende
 ## Usage
 
 ## Acknowledgements
-
+Pre-trained Haar Cascades from @Aravindlivewire [here](https://github.com/Aravindlivewire/Opencv/tree/master/haarcascade)
 
 ## License
 
