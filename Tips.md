@@ -17,3 +17,6 @@ I used the pre-built binaries from [here](https://pypi.org/project/opencv-python
 pip install opencv-contrib-python==4.1.0.25
 ```
 
+## Using Virtual Environments with VS Code
+
+You don't really have to activate/deactivate your virtual environment every time you run your code. All you have to do is change the python interpreter being used by whatever editor you're using. I use VSCode, and found this [nifty little guide on changing environments](https://code.visualstudio.com/docs/python/environments#_where-the-extension-looks-for-environments). If you're using a different editor, you should look for a way to set the current interpreter to the one in your new environment.
