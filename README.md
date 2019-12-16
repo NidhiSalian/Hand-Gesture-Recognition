@@ -26,7 +26,7 @@ Package dependencies are listed program-wise below.
 
 
 ## Acknowledgements
-Pre-trained Haar Cascades from [ravindlivewire](https://github.com/Aravindlivewire). Found them [here](https://github.com/Aravindlivewire/Opencv/tree/master/haarcascade). Pretty old, but they work. If you find better detectors or train your own
+Pre-trained Haar Cascades by [Aravindlivewire](https://github.com/Aravindlivewire). Found them [here](https://github.com/Aravindlivewire/Opencv/tree/master/haarcascade). Pretty old, but they work. If you find better detectors or train your own
 
 ## License
 
