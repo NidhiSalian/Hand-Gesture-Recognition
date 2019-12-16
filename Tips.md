@@ -13,7 +13,7 @@ I ran into problems with the default ExecutionPolicy for .ps1 files on my Window
 ## OpenCV2 installation
 
 I used the pre-built binaries from [here](https://pypi.org/project/opencv-python/). Just run the following commmand after you activate your virtual environment
-'''python
+```python
 pip install opencv-contrib-python==4.1.0.25
-'''
+```
 
