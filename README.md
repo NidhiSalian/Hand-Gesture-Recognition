@@ -8,7 +8,7 @@ All I've got to work with is the VGA nose cam on my laptop though, and it's hard
 ## Setup
 
 This project was developed using VS Code and Python 3.7.4
-I'd recommend using a virtual environment to prevent conflicting package dependencies across different projects. Ypu can find some helpful hints in the [tips section](./blob/master/Tips.md).
+I'd recommend using a virtual environment to prevent conflicting package dependencies across different projects. Ypu can find some helpful hints in the [tips section](./Tips.md).
 
 ## Usage
 
@@ -17,4 +17,4 @@ I'd recommend using a virtual environment to prevent conflicting package depende
 
 ## License
 
-[MIT License](./blob/master/LICENSE)
+[MIT License](./LICENSE)
